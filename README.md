@@ -1,7 +1,6 @@
+![appicon](https://github.com/user-attachments/assets/9acd0cc2-ca6d-4685-aea9-ef6084a8f2de)
 # braza-browser
 python based browser with implemented ai
-
-[![Latest Stable Version](1.1.0)](https://packagist.org/packages/chrome-php/chrome)
 
 
 # compiler code (works in vscode)
