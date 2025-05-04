@@ -7,3 +7,8 @@ python based browser with implemented ai
 pyinstaller --onefile --windowed --hidden-import=PyQt5.QtWebEngineCore --hidden-import=PyQt5.QtWebEngineWidgets --hidden-import=PyQt5.QtWebChannel --collect-all PyQt5.QtWebEngineWidgets braza.py
 ```
 
+# what next?
+i am currently working  on a lite version and v2 wich will add better ai implementation 
+
+# credits
+thanks to roocraft2
