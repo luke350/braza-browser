@@ -1,6 +1,8 @@
 # braza-browser
 python based browser with implemented ai
 
+[![Latest Stable Version](https://poser.pugx.org/chrome-php/chrome/version)](https://packagist.org/packages/chrome-php/chrome)
+
 
 # compiler code (works in vscode)
 feel free to compile it yourself with pyinstaller
