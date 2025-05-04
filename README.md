@@ -13,3 +13,5 @@ i am currently working  on a lite version and v2 wich will add better ai impleme
 
 # credits
 thanks to roocraft2
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
