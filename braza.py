@@ -1,6 +1,4 @@
 import sys
-import threading
-import requests
 from PyQt5.QtWidgets import (
     QApplication,
     QMainWindow,
@@ -11,7 +9,6 @@ from PyQt5.QtWidgets import (
     QWidget,
     QGraphicsDropShadowEffect,
     QTabWidget,
-    QLabel,
 )
 from PyQt5.QtWebEngineWidgets import QWebEngineView, QWebEnginePage, QWebEngineSettings
 from PyQt5.QtCore import QUrl, Qt
